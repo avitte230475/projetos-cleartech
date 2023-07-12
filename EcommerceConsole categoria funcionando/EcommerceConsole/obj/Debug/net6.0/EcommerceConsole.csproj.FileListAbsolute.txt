@@ -1,0 +1,75 @@
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.exe
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.deps.json
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.runtimeconfig.json
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.dll
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.AssemblyReference.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfoInputs.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfo.cs
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.CoreCompileInputs.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.dll
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\refint\EcommerceConsole.dll
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.genruntimeconfig.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\ref\EcommerceConsole.dll
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.exe
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.deps.json
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.runtimeconfig.json
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.dll
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.AssemblyReference.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfoInputs.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfo.cs
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.CoreCompileInputs.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.dll
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\refint\EcommerceConsole.dll
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.genruntimeconfig.cache
+C:\Users\aline.vitte\source\repos\EcommerceConsole funcionando\EcommerceConsole\obj\Debug\net6.0\ref\EcommerceConsole.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.exe
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.deps.json
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\refint\EcommerceConsole.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EcommerceConsole\EcommerceConsole\obj\Debug\net6.0\ref\EcommerceConsole.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.exe
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.deps.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.runtimeconfig.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.AssemblyReference.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfoInputs.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfo.cs
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\refint\EcommerceConsole.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.genruntimeconfig.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\ref\EcommerceConsole.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.exe
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.deps.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.runtimeconfig.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\bin\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\refint\EcommerceConsole.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.pdb
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\EcommerceConsole.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EcommerceConsole categoria funcionando\EcommerceConsole\obj\Debug\net6.0\ref\EcommerceConsole.dll

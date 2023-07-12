@@ -1,0 +1,45 @@
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.csproj.AssemblyReference.cache
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.AssemblyInfoInputs.cache
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.AssemblyInfo.cs
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.csproj.CoreCompileInputs.cache
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.exe
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.deps.json
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.runtimeconfig.json
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.dll
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.pdb
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.dll
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\refint\LojaVirtualTeste.dll
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.pdb
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.genruntimeconfig.cache
+C:\Users\aline.vitte\source\repos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\ref\LojaVirtualTeste.dll
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.exe
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.deps.json
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.dll
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.pdb
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.dll
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\refint\LojaVirtualTeste.dll
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.pdb
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Meus projetos\LojaVirtualTeste\LojaVirtualTeste\obj\Debug\net6.0\ref\LojaVirtualTeste.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.exe
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.deps.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.runtimeconfig.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\bin\Debug\net6.0\LojaVirtualTeste.pdb
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.csproj.AssemblyReference.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.AssemblyInfoInputs.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.AssemblyInfo.cs
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\refint\LojaVirtualTeste.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.pdb
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\LojaVirtualTeste.genruntimeconfig.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\LojaVirtualTeste categoria e subcategoria funcionando\LojaVirtualTeste\obj\Debug\net6.0\ref\LojaVirtualTeste.dll

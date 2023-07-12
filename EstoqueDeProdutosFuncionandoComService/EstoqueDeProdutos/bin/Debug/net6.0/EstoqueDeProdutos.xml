@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EstoqueDeProdutos</name>
+    </assembly>
+    <members>
+        <member name="T:EstoqueDeProdutos.Migrations.CriandoTabelas">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.CriandoTabelas.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.CriandoTabelas.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.CriandoTabelas.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
