@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LojaVirtualTeste/1.0.0": {
+        "runtime": {
+          "LojaVirtualTeste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojaVirtualTeste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

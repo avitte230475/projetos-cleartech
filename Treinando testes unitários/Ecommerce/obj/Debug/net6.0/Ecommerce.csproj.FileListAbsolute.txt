@@ -1,0 +1,30 @@
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+C:\Users\aline.vitte\source\repos\Ecommerce\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\Sprint Final\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll

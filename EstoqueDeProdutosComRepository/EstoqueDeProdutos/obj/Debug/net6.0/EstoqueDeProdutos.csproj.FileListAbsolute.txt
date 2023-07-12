@@ -1,0 +1,553 @@
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\aline.vitte\source\repos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Meus projetos\EstoqueDeProdutosFuncionando\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei aqui falta put e del\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService falta put e del na service\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\ClearTech\Documents\Azure1\T1-AlineVitte\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\EstoqueDeProdutosFuncionandoComService parei nesse\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\appsettings.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.EstoqueDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.build.EstoqueDeProdutos.props
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueDeProdutos.props
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EstoqueDeProdutos.props
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\scopedcss\bundle\EstoqueDeProdutos.styles.css
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CopyComplete
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.xml
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+C:\Users\aline\OneDrive\Documents\Projetos Cleartech\EstoqueDeProdutosComRepository\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EstoqueDeProdutos</name>
+    </assembly>
+    <members>
+        <member name="T:EstoqueDeProdutos.Migrations.criandoTabelas">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.criandoTabelas.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.criandoTabelas.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.criandoTabelas.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EstoqueDeProdutos.Migrations.atualizandoTabelas">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.atualizandoTabelas.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.atualizandoTabelas.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.atualizandoTabelas.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EstoqueDeProdutos.Migrations.NovaAtualizacaoTabelas">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.NovaAtualizacaoTabelas.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.NovaAtualizacaoTabelas.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EstoqueDeProdutos.Migrations.NovaAtualizacaoTabelas.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
